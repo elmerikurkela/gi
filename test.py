@@ -1,4 +1,4 @@
-print("git test 1")
+print("git test")
 
 print("test_2")
 
